@@ -1,0 +1,30 @@
+
+第1次训练：
+max_dir_acc: 0.25000, max_dir_acc_step: 1
+
+第2次训练：
+max_dir_acc: 0.37500, max_dir_acc_step: 8
+
+第3次训练：
+max_dir_acc: 0.62500, max_dir_acc_step: 104
+
+第4次训练：
+max_dir_acc: 0.37500, max_dir_acc_step: 1
+
+第5次训练：
+max_dir_acc: 0.50000, max_dir_acc_step: 108
+
+第6次训练：
+max_dir_acc: 0.62500, max_dir_acc_step: 127
+
+第7次训练：
+max_dir_acc: 0.37500, max_dir_acc_step: 120
+
+第8次训练：
+max_dir_acc: 0.37500, max_dir_acc_step: 1
+
+第9次训练：
+max_dir_acc: 0.50000, max_dir_acc_step: 51
+
+第10次训练：
+max_dir_acc: 0.37500, max_dir_acc_step: 55
