@@ -27,3 +27,8 @@ print(y,'\n')
 
 #我们可以通过 shape 或者 size() 来获取 Tensor 的形状
 print(x.size(),"  ",y.shape) #注意:返回的torch.Size其实就是一个tuple, 支持所有tuple的操作。
+
+
+# 还有很多函数可以创建 Tensor ,去翻翻官方API就知道了,下表给了一些常用的作参考
+# 函数功能Tensor(*sizes) 基础构造函数tensor(data,) 类似np.array的构造函数ones(*sizes) 全1Tensor zeros(*sizes) 全0Tensor eye(*sizes) 对⻆线为1,其他为0 arange(s,e,step 从s到e,步⻓为step linspace(s,e,steps) 从s到e,均匀切分成steps份输出: 我们可以通过 shape 或者 size() 来获取 Tensor 的形状: 输出: 注意:返回的torch.Size其实就是一个tuple, 支持所有tuple的操作。
+#这些创建方法都可以在创建的时候指定数据类型dtype和存放device(cpu/gpu)
